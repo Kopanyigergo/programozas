@@ -1,0 +1,7 @@
+Z:\git\20210914\bin\Debug\20210914.exe.config
+Z:\git\20210914\bin\Debug\20210914.exe
+Z:\git\20210914\bin\Debug\20210914.pdb
+Z:\git\20210914\obj\Debug\20210914.csprojAssemblyReference.cache
+Z:\git\20210914\obj\Debug\20210914.csproj.CoreCompileInputs.cache
+Z:\git\20210914\obj\Debug\20210914.exe
+Z:\git\20210914\obj\Debug\20210914.pdb
