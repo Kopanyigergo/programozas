@@ -10,16 +10,16 @@ namespace _20211012
     {
         static void Main(string[] args)
         {
-            //kész: 11, 12, 13, 20
+            //kész: 11, 12, 13, 14, 15, 20
 
             //feladat11();
             //feladat12();
             //feladat13();
             //feladat14();
-            //feladat15();
+            feladat15();
             //feladat16();
             //feladat17();
-            feladat18();
+            //feladat18();
             //feladat19();
             //feladat20();
         }
@@ -29,7 +29,7 @@ namespace _20211012
             {
                 Console.WriteLine("{0}",i);
             }
-            Console.Write("while ciklussal");
+            Console.WriteLine("while ciklussal");
             int cv = -30;
             while (cv < 31)
             {
@@ -46,8 +46,8 @@ namespace _20211012
                 {
                     Console.Write("{0} ", i * j);
                 }
-                Console.WriteLine();
             }
+            Console.WriteLine();
             Console.WriteLine("while ciklussal");
             int cv = 3;
             while (cv < 4)
@@ -70,8 +70,8 @@ namespace _20211012
                 {
                     Console.Write("{0} ",i*j);
                 }
-                Console.WriteLine();
             }
+            Console.WriteLine();
             Console.WriteLine("while ciklussal");
             int cv = 2;
             while (cv<3)
@@ -84,6 +84,7 @@ namespace _20211012
                 }
                 cv++;
             }
+            Console.WriteLine();
         }
         static void feladat14()
         {
@@ -91,20 +92,52 @@ namespace _20211012
             {
                 for (int j = 1; j < 26; j++)
                 {
-                    if (i * j % 4 == 0)
+                    if (7 * j % 4 == 0)
                     {
-                        Console.Write("");
+                        Console.Write("{0} ",j);
                     }
                 }
+            }
+            Console.WriteLine();
+            Console.WriteLine("while ciklussal");
+            int cv = 7;
+            while (cv<8)
+            {
+                int cv1 = 1;
+                while (cv1<26)
+                {
+                    if (7 * cv1 % 4 == 0)
+                    {
+                        Console.Write("{0} ",cv1);
+                    }
+                    cv1++;
+                }
+                cv++;
             }
             Console.WriteLine();
         }
         static void feladat15()
         {
-            for (int i = 144; i < 145; i++)
+            for (int i = 1; i < 145; i++)
             {
-                
+                if (144 % i == 0)
+                {
+                    Console.Write("{0} ",i);
+                }
             }
+            Console.WriteLine();
+            Console.WriteLine("while ciklussal");
+            int cv = 1;
+            while (cv < 145)
+            {
+                if (144 % cv == 0)
+                {
+                    Console.Write("{0} ",cv);
+                }
+                cv++;
+            }
+            Console.WriteLine();
+
         }
         static void feladat16()
         {
@@ -128,8 +161,8 @@ namespace _20211012
                 {
                     Console.Write("{0} ",i*j);
                 }
-                Console.WriteLine();
             }
+            Console.WriteLine();
             Console.WriteLine("while ciklussal");
             int cv = 8;
             while (cv<9)
