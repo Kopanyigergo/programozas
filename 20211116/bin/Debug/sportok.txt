@@ -1,0 +1,3 @@
+foci;úszás;kézilabda;tenisz
+kosárlabda;bowling;asztalitenisz;korcsolyázás
+síelés;snowboardozás;sífutás;síugrás
