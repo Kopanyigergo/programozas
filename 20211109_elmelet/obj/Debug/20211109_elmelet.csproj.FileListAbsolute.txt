@@ -1,0 +1,7 @@
+Z:\programozas 11E\20211109_elmelet\bin\Debug\20211109_elmelet.exe.config
+Z:\programozas 11E\20211109_elmelet\bin\Debug\20211109_elmelet.exe
+Z:\programozas 11E\20211109_elmelet\bin\Debug\20211109_elmelet.pdb
+Z:\programozas 11E\20211109_elmelet\obj\Debug\20211109_elmelet.csprojAssemblyReference.cache
+Z:\programozas 11E\20211109_elmelet\obj\Debug\20211109_elmelet.csproj.CoreCompileInputs.cache
+Z:\programozas 11E\20211109_elmelet\obj\Debug\20211109_elmelet.exe
+Z:\programozas 11E\20211109_elmelet\obj\Debug\20211109_elmelet.pdb
